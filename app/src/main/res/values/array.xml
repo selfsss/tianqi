@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="scene_icon_list">
+
+        <item>zhongyu</item>
+        <item>baoxue</item>
+        <item>baoyu</item>
+        <item>dabaoyu</item>
+        <item>daxue</item>
+        <item>dayu</item>
+        <item>dongyu</item>
+        <item>duoyun</item>
+        <item>qing</item>
+        <item>xiaoxue</item>
+        <item>yin</item>
+        <item>yujiaxue</item>
+        <item>zhenxue</item>
+        <item>zhenyu</item>
+
+
+
+
+
+    </string-array>
+</resources>

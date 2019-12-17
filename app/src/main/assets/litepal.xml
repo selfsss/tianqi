@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+
+    <dbname value="weather" />
+
+
+    <version value="1" />
+
+    <list>
+        <mapping class="cn.edu.bistu.cs.se.weather.db.City" />
+        <mapping class="cn.edu.bistu.cs.se.weather.db.County" />
+        <mapping class="cn.edu.bistu.cs.se.weather.db.Province" />
+    </list>
+
+</litepal>
